@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rw4n99/axecore#readme",
   "devDependencies": {
     "@axe-core/playwright": "^4.10.2",
+    "@playwright/test": "^1.53.1",
     "playwright": "^1.53.1"
   }
 }
