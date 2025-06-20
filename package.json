@@ -1,0 +1,24 @@
+{
+  "name": "axecore",
+  "version": "1.0.0",
+  "description": "Playing with axecore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rw4n99/axecore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rw4n99/axecore/issues"
+  },
+  "homepage": "https://github.com/rw4n99/axecore#readme",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "playwright": "^1.53.1"
+  }
+}
